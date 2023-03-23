@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ADBMS",
+        "date": "11022023",
+        "description": "Advanced Database Management System",
+        "domain": ["www.adbms.org","www.adbms.com"],
+        "chapters": [
+            {
+                "name": "Relational database",
+                "text": "Consist of relations"
+            },
+            {
+                "name": "Network database",
+                "text": "Consist of networks"
+            }
+        ]
+    },
+    {
+        "name": "OOPs",
+        "date": "11032023",
+        "description": "Object Oriented Programing",
+        "domain": ["www.oops.org","www.oops.com"],
+        "chapters": [
+            {
+                "name": "Classes",
+                "text": "Instance of object"
+            },
+            {
+                "name": "Inheritance",
+                "text": "Property inherited from parent"
+            }
+        ]
+    },
+    {
+        "name": "Big Data",
+        "date": "11042023",
+        "description": "Comprises of large volume of data",
+        "domain":["www.bigdata.org","www.bigdata.com"],
+        "chapters": [
+            {
+                "name": "Spark",
+                "text": "Data analytics"
+            },
+            {
+                "name": "Hadoop",
+                "text": "Open source software framework for storage"
+            }
+        ]
+    }
+]
